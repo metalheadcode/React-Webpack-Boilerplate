@@ -1,0 +1,16 @@
+# Files
+*.md
+*.yml
+package-json
+package-lock.json
+yarn.lock
+
+# Directories
+.github/
+.vscode/
+test/
+coverage/
+node_modules/
+dist/
+docs/publics/
+docs/static/
